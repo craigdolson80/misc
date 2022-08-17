@@ -1,20 +1,26 @@
 Applications to install:
 
+lightdm
 bspwm
 rofi
+picom
 alacritty
 geany
+nitrogen
 notepadqq
+font-awesome
+nerd fonts
+AUR
+network manager
 veracrypt
 qemu
 virt-manager
 tor
-font-awesome
-nerd fonts
-AUR
-nitrogen
 pcmanfm
 ranger
-picom
 htop
-yibico-authenticator
+yubioath-desktop
+pcsclite
+polkit ??
+firefox
+pulseaudio
